@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Kia",
+      "model": "Soul",
+      "year": "2015",
+      "price": "10000",
+      "description": "Fresh from a complete redesign for 2014, Kia Soul continues as one of the best boxy compacts on the market with its unique design, comfortable ride and roomy interior. "
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2010",
+      "price": "5700",
+      "description": "The Toyota Camry is not only America’s best-selling midsize sedan, it’s been the best-selling passenger car of any size for the past 11 years straight, and for 15 of the last 16 years."
+    }
+  ]
+}
