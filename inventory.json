@@ -20,6 +20,13 @@
       "year": "2010",
       "price": "5700",
       "description": "The Toyota Camry is not only America’s best-selling midsize sedan, it’s been the best-selling passenger car of any size for the past 11 years straight, and for 15 of the last 16 years."
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Golf",
+      "year": "2016",
+      "price": "15999",
+      "description": "Motor Trend reports Golf is a full barrage on the compact car segment. Named to Car and Driver's 10 Best Cars for 2016."
     }
   ]
 }

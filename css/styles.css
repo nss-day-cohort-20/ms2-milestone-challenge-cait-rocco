@@ -1,0 +1,16 @@
+.myClass {
+	width: 30%;
+	margin: 1%;
+	height: 300px;
+	background-color: grey;
+	border: 1px solid;
+}
+
+.add-border {
+	border: 10px solid;
+	background-color: lightblue;
+}
+
+.navbar {
+	background-color: lightyellow;
+}
